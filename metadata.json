@@ -1,0 +1,7 @@
+{
+  "name": "GuardianLink - Legal & Safety Assistant",
+  "description": "A comprehensive safety application providing legal guidance, mental support, and an automated emergency check-in system with guardian notifications and live tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
